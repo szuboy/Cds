@@ -1,0 +1,7 @@
+﻿  Exp4.cpp
+e:\c++\lesson\seqstack\exp4.cpp(78): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\lesson\seqstack\exp4.cpp(82): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\lesson\seqstack\exp4.cpp(102): warning C4018: “<”: 有符号/无符号不匹配
+e:\c++\lesson\seqstack\exp4.cpp(146): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\c++\lesson\seqstack\exp4.cpp(165): warning C4101: “ret_value”: 未引用的局部变量
+  SeqStack.vcxproj -> E:\C++\Lesson\SeqStack\Debug\SeqStack.exe
